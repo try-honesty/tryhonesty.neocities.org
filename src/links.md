@@ -8,4 +8,4 @@ date: Last Modified
 ---
 
 # TODO
-[Only website you need, baby!](https://crouton.net)
+[Only website you need, baby!](https://crouton.net/)

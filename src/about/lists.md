@@ -25,7 +25,7 @@ ActionScript (along with MXML, for AIR/Flash/Flex archival/decompilation),<br/>
 Assembly (first x86 with Intel syntax, since that's what MASM uses, then probably other CPUs),<br/>
 C++ (Visual C++ and Clang), F#, GLSL, Haskell, HLSL, Java (including Jakarta EE and JavaFX), LaTeX, Lua, Objective-C, Perl, PHP, Python (with Tcl/Tk),<br/>
 R, SQL (MS-SQL and MySQL/MariaDB), Ruby, Rust, SVG (as in, writing them from scratch), Swift, and TypeScript seem the most relevant.<br/><br/>
-<a href="https://github.com/jindrapetrik/jpexs-decompiler"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/flash.gif" alt="an 88x31 button featuring the old Flash logo and the text 'GET FLASH'; this button doesn't go to anywhere to download Flash, though, it's just here to represent ActionScript and MXML as scripting and markup languages, respectively."/></a>
+<a href="https://github.com/jindrapetrik/jpexs-decompiler/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/flash.gif" alt="an 88x31 button featuring the old Flash logo and the text 'GET FLASH'; this button doesn't go to anywhere to download Flash, though, it's just here to represent ActionScript and MXML as scripting and markup languages, respectively."/></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/assembly.gif" alt="an 88x31 button featuring hexadecimal characters fading into an orange background with the text 'powered by ASM' overlayed on top."/></a>
 <a href="https://www.iso.org/standard/83626.html"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/cpp.gif" alt="an 88x31 button featuring just the text 'C++' in white on a red background."/></a>
 <a href="https://docs.oracle.com/javase/specs/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/java.gif" alt="an 88x31 button featuring the Java logo, the text 'Java'  in an orange wavy box, and the text 'GET IT NOW' in orange below it; this button doesn't go to anywhere to download Java, though, it's just here to represent Java as a programming language."/></a>
@@ -54,8 +54,8 @@ since I like the philosophy of BSD-licenced software much more than that of GPL-
 <a href="https://www.debian.org/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/debian.gif" alt="an 88x31 button featuring the Debian logo and the text 'Powered by' followed by the Debian wordmark."/></a>
 <a href="https://fedoraproject.org/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/fedora.gif" alt="an 88x31 button featuring the Fedora Project logo and the text 'POWERED BY' followed by the Fedora wordmark."/></a>
 <a href="https://www.freebsd.org/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/freebsd.gif" alt="an 88x31 button featuring Beastie the BSD mascot and the text 'Powered by FreeBSD'."/></a>
-<a href="https://www.apple.com/macos"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/imac.gif" alt="an 88x31 button featuring pixel art of a bondi blue iMac with the Finder icon on its screen and the text 'i love iMac'."/></a>
-<a href="https://www.microsoft.com/windows"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/imissxp.gif" alt="an 88x31 button featuring a scaled down image of the Windows XP user interface and the text 'I miss XP!' in white outlined by blue, blinking."/></a><br/>
+<a href="https://www.apple.com/macos/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/imac.gif" alt="an 88x31 button featuring pixel art of a bondi blue iMac with the Finder icon on its screen and the text 'i love iMac'."/></a>
+<a href="https://www.microsoft.com/windows/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/imissxp.gif" alt="an 88x31 button featuring a scaled down image of the Windows XP user interface and the text 'I miss XP!' in white outlined by blue, blinking."/></a><br/>
 <a href="https://kernel.org/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/linux.gif" alt="an 88x31 button featuring Xenia, the better Linux mascot, and the text 'Linux NOW!' in the spirit of the old Netscape buttons."/></a>
 <a href="https://www.redhat.com/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/redhat.gif" alt="an 88x31 button featuring the old Red Hat logo and wordmark."/></a>
 <a href="https://ubuntu.com/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/ubuntu.gif" alt="an 88x31 button featuring the old Ubuntu logo and wordmark."/></a><br/><br/>
@@ -80,7 +80,7 @@ because the poster is paranoid out of their gourd about shit that doesn't matter
 I'm going to (figuratively) shit.<br/><br/>
 <a href="https://httpwg.org/specs/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/anybrowser.gif" alt="an 88x31 button with an at-sign drawing itself onto the night sky in the Netscape logo and the text 'Any Browser NOW!' writing itself out next to it in shades of blue, along with a teal corner banner that would usually state a version number, but rather here just contains the text '0.0' in white."/></a>
 <a href="https://www.google.com/chrome/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/chrome.gif" alt="an 88x31 button with the text 'BEST viewed with chrome', and the Google Chrome logo. This site should be viewable in basically anything modern, though."/></a>
-<a href="https://github.com/uBlockOrigin"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/ublockorigin.gif" alt="an 88x31 button featuring the uBlock Origin logo, and the text 'uBLock Origin Now!' in the spirit of the old Netscape buttons."/></a><br/><br/>
+<a href="https://github.com/uBlockOrigin/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/ublockorigin.gif" alt="an 88x31 button featuring the uBlock Origin logo, and the text 'uBLock Origin Now!' in the spirit of the old Netscape buttons."/></a><br/><br/>
 ### Text Editors and IDEs
 Visual Studio Code is what is bringing this website to you, at the moment.<br/>
 For languages with good support, either in-box or by extensions, for it, I do like Visual Studio (fmr. Visual Studio.NET) quite a lot.<br/>
@@ -111,5 +111,5 @@ Oh, and seed your torrents. Or don't, I'm not your mom.<br/>
 I use qBittorrent when very legally acquiring things over peer to peer.<br/><br/>
 <a href="https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/floppy.gif" alt="an 88x31 button with a floppy disk, and the text 'Copy that floppy!'."/></a>
 <a href="https://www.qbittorrent.org/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/88x31/qbittorrent.gif" alt="an 88x31 button with a blue background, the qbittorrent 'qb' mark, and the text 'DON'T FORGET TO SEED!'."/></a><br/><br/>
-## [Media I'm completely normal about](https://tryhonesty.neocities.org/about/media)
-## [Computer systems I own](https://tryhonesty.neocities.org/about/systems)
+## [Media I'm completely normal about](https://tryhonesty.neocities.org/about/media/)
+## [Computer systems I own](https://tryhonesty.neocities.org/about/systems/)

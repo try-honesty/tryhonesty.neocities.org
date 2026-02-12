@@ -31,7 +31,7 @@ Ask me about how much I once spent on Japanese imports related to Doko Demo Issy
 <a href="https://www.playstation.com/ja-jp/games/dokodemoissyo/"><img class="eightyeightbythirtyone" src="../../.images/about/lists/media/88x31/toroinoue.gif" alt="an 88x31 button with a pink picnic-blanket background with flowers, a picture of Toro Inoue with a lollipop, and the text 'TORO INOUE' in black."/></a><br/><br/>
 Oh, and I fucking love Little Tail Bronx. Red Savarin is me; actually. Salut, et cetera. And Waffle is a good boy.<br/><br/>
 ## Music
-[Forgive me father; why should you bother?](https://www.billytalent.com) (This webpage name! This webpage name!) <br/>
+[Forgive me father; why should you bother?](https://www.billytalent.com/) (This webpage name! This webpage name!) <br/>
 [You're not the Jesus of Suburbia; the Saint Jimmy is a figment of your father's rage and your mother's love; made me the idiot America...](https://greenday.com/)<br/>
 [I believe in angels; not the kind with wings, no, not the kind with halos; the kind that bring you home...](https://riseagainst.com/)<br/>
 [Sometimes I sit at home, and wonder if she's sitting at home, thinking of me, and wondering if I'm sitting at home, thinking about her...](https://www.blink182.com/)<br/>

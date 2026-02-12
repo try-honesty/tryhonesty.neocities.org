@@ -12,11 +12,11 @@ It's a very pretty website, wouldn't you agree?<br/>
 No?<br/>
 Screw you.<br/>
 <br/>
-##### You can find information about this site at [its GitHub repository](https://github.com/try-honesty/tryhonesty.neocities.org), if that's important to you.
+##### You can find information about this site at [its GitHub repository](https://github.com/try-honesty/tryhonesty.neocities.org/), if that's important to you.
 <br/>
 Use the links in the sidebar to navigate to, uh... stuff.
 <br/><br/>
-<a href="https://tryhonesty.neocities.org"><img class="eightyeightbythirtyone" src="./.images/index/88x31/tryhonesty.gif" alt="an 88x31 button featuring Vibri from the video game Vib-Ribbon playing a guitar with an excited expression, drawn by me, and adapted to be used to represent this website."></a><br/><br/>
+<a href="https://tryhonesty.neocities.org/"><img class="eightyeightbythirtyone" src="./.images/index/88x31/tryhonesty.gif" alt="an 88x31 button featuring Vibri from the video game Vib-Ribbon playing a guitar with an excited expression, drawn by me, and adapted to be used to represent this website."></a><br/><br/>
 <a href="https://www.mabsland.com/Adoption.html"><img class="eightyeightbythirtyone" src="./.images/index/88x31/mabsland14.gif" alt="an 88x31 button featuring Fa Teen, the Censorship Panda for pages suitable for people 14 years of age or older, from Mab's Land."></a><br/><br/>
 
 ##### Content directly viewable on this site is suitable for those 14 years of age or over, in accordance with Neocities terms of use.

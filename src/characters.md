@@ -8,5 +8,5 @@ date: Last Modified
 ---
 
 # TODO
-The best I can give you right now is [my Artfight character list](https://artfight.net/~tryhonesty/characters)<br/>
+The best I can give you right now is [my Artfight character list](https://artfight.net/~tryhonesty/characters/)<br/>
 (sign-in required).

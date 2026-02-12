@@ -42,10 +42,10 @@ Computer, software and internet history, archival and preservation, especially a
 <a href="https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/Nintendo-3DS-Family-94560.html"><img class="eightyeightbythirtyone" src="../.images/about/88x31/n3ds.gif" alt="an 88x31 button featuring the Nintendo 3DS wordmark."/></a>
 <a href="https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-64/Nintendo-64-625959.html"><img class="eightyeightbythirtyone" src="../.images/about/88x31/nintendo64.gif" alt="an 88x31 button featuring the Nintendo logo, the Nintendo 64 'N' logo, and the Nintendo 64 controller."/></a>
 <a href="https://www.opengl.org/"><img class="eightyeightbythirtyone" src="../.images/about/88x31/opengl.gif" alt="an 88x31 button with a black background and the OpenGL wordmark."/></a>
-<a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/3806/~/pictochat-overview"><img class="eightyeightbythirtyone" src="../.images/about/88x31/pictochat.gif" alt="an 88x31 button featuring the text 'I miss using' and the PictoChat wordmark."/></a>
+<a href="https://en-americas-support.nintendo.com/app/answers/detail/a_id/3806/~/pictochat-overview/"><img class="eightyeightbythirtyone" src="../.images/about/88x31/pictochat.gif" alt="an 88x31 button featuring the text 'I miss using' and the PictoChat wordmark."/></a>
 <a href="https://www.playstation.com/playstation-history/1994-ps-one/"><img class="eightyeightbythirtyone" src="../.images/about/88x31/playstation.gif" alt="an 88x31 button featuring pixel art of the original multi-colour PlayStation logo and the text 'PlayStation'."/></a><br/>
 <a href="https://www.libsdl.org/"><img class="eightyeightbythirtyone" src="../.images/about/88x31/sdl.gif" alt="an 88x31 button featuring the SDL wordmark."/></a>
 <a href="https://en.wikipedia.org/wiki/Utah_teapot"><img class="eightyeightbythirtyone" src="../.images/about/88x31/teapot.gif" alt="an 88x31 button featuring a Utah teapot and the text 'Utah Now!' in the spirit of the old Netscape buttons."/></a>
 <a href="https://en.wikipedia.org/wiki/Zune"><img class="eightyeightbythirtyone" src="../.images/about/88x31/zune.gif" alt="an 88x31 button featuring the the Zune logo and wordmark."/></a><br/><br/>
 
-## [Lists of things (very specific, I know)](https://tryhonesty.neocities.org/about/lists)
+## [Lists of things (very specific, I know)](https://tryhonesty.neocities.org/about/lists/)
