@@ -1,0 +1,6 @@
+# local node.js packages
+node_modules/
+# local eleventy build output
+out/
+# local asset staging
+tmp/

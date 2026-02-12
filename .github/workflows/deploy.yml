@@ -1,0 +1,37 @@
+name: Deploy to Neocities
+
+# only run on changes to main
+on:
+  push:
+    branches:
+      - main
+
+env:
+  FORCE_COLOR: 1
+  node_version: lts/*
+
+concurrency: # prevent concurrent deploys doing strange things
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    # Set up any tools and build steps here
+    # This example uses a Node.js toolchain to build a site
+    - name: Setup Node.js environment and build with Eleventy
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.node_version }}
+    - run: npm i
+    - run: npm run build
+    # When the dist_dir is ready, deploy it to neocities
+    - name: Deploy to Neocities
+      uses: bcomnes/deploy-to-neocities@v3 # dont use master in production
+      with:
+        api_key: ${{ secrets.NEOCITIES_API_KEY }}
+        cleanup: true
+        dist_dir: out
