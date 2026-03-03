@@ -8,7 +8,7 @@ All code and assets created for this site by yours truly is licenced under the t
 #### External licences
 The licences for dependencies for building or developing this site are available at their respective pages (which are almost universally able to be found at the individual page for a package at the [NPM website](https://npmjs.org) under 'Repository'). You can find a list of all dependencies in the file [`package.json`](https://github.com/try-honesty/tryhonesty.neocities.org/blob/main/package.json) under the key `dependencies`.
 
-This site makes use of the font [Selawik](https://github.com/microsoft/Selawik), which is [distributed in binary form in this repository](https://github.com/try-honesty/tryhonesty.neocities.org/tree/main/src/_fonts/selawik) under the terms of the [SIL Open Font Licence](https://github.com/microsoft/Selawik/blob/master/LICENSE.txt).
+This site makes use of the font [Selawik](https://github.com/microsoft/Selawik), which is [distributed in binary form in this repository](https://github.com/try-honesty/tryhonesty.neocities.org/tree/main/src/.fonts/selawik) under the terms of the [SIL Open Font Licence](https://github.com/microsoft/Selawik/blob/master/LICENSE.txt).
 
 Images used on the site are generally created by me, and thus, more or less, share the same licence as this repository, although asking first before using anything personal (i.e. the contents of `about.md` and subpages thereof), or with my own characters (i.e. the contents of `characters.md` and subpages thereof), would be highly appreciated, for hopefully obvious reasons.
 
