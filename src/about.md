@@ -13,7 +13,7 @@ date: Last Modified
 I'm 23 years old (as of writing this version of this page), and I live in the Miami Valley region of the United States.<br/>
 I've lived here all my life, with family ancestry in Wales and Ireland (and maybe Germany?),<br/>
 and I currently only speak proficient English (mostly British/Commonwealth English (en-GB).)<br/>
-I'm [agenderflux](https://en.pronouns.page/terminology?filter=agenderflux) and [autochorissexual](https://en.pronouns.page/terminology?filter=autochorissexual), and I use they/them/their pronouns.<br/>
+I'm [librafluid](https://en.pronouns.page/terminology?filter=librafluid) and [autochorissexual](https://en.pronouns.page/terminology?filter=autochorissexual), and I use they/them/their pronouns unless I know you better (don't ask questions.)<br/>
 More specific preferences, language and otherwise, can be found at my [pronouns.page](https://pronouns.page/@tryhonesty).<br/><br/>
 <a href="https://en.pronouns.page/terminology?filter=non-binary"><img class="eightyeightbythirtyone" src="../.images/about/88x31/non-binary.gif" alt="an 88x31 button featuring the non-binary pride flag."/></a>
 <a href="https://en.pronouns.page/terminology?filter=asexual"><img class="eightyeightbythirtyone" src="../.images/about/88x31/asexual.gif" alt="an 88x31 button featuring the asexual pride flag and the text 'ASEXUALS Now!' in the spirit of the old Netscape buttons."/></a><br/><br/>
